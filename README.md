@@ -1,6 +1,6 @@
 # Profile 👋
 
-<img src="증명사진.png" align="right" width="120" height="150" alt="profile_image">
+<img src="https://github.com/jungin-kim/jungin-kim/blob/main/%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.png?raw=true" align="right" width="200" height="250" alt="profile_image">
 
 * **이름** : 김정인
 * **생년월일** : 1998.01.29
