@@ -1,6 +1,6 @@
 # Profile 👋
 
-<img src="본인의_프로필사진_이미지주소_또는_경로.jpg" align="right" width="120" height="150" alt="profile_image">
+<img src="증명사진.jpg" align="right" width="120" height="150" alt="profile_image">
 
 * **이름** : 김정인
 * **생년월일** : 1998.01.29
